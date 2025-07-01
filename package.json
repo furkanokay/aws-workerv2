@@ -1,0 +1,14 @@
+{
+  "name": "aws-workerv2",
+  "version": "1.0.0",
+  "description": "aws-worker from author ogm-crbt but enhanced to support sending email with attachments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.67.0"
+  },
+  "author": "frkn-ky",
+  "license": "MIT"
+}
